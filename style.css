@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+.logo {
+    width: 311px;
+    height: 250px;
+}
+.links {
+    display: flex;
+    font-family: Tahoma;
+    justify-content: center;
+}
+.links div {
+    padding: 20px;
+    /* height: 10px; */
+    border: 2px solid;
+    background-color: lightsalmon;
+    color: white;
+}
+.links2 div{
+    font-family: Tahoma;
+    border: 2px solid;
+    width: 250px;
+    margin-left: 10px;
+    background-color: lightsalmon;
+    color: white;
+}
+
+#videolink{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+
+
+.links2{
+    display: flex;
+    flex-direction: column;
+}
+    
+.video {
+    margin-left: 20px
+}
+
+.aaa{
+    margin-left: 100px;
+}
+
+#labrador{
+    display: block;
+}
